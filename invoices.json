@@ -6,9 +6,21 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
-			"recipient": {},
+			"date": "2018-03-25",
+			"recipient": {
+				"name": "Yoooo",
+				"address": "I had no idea there was a second page wow"
+			},
 			"currency": "$",
 			"services": [
+				{
+					"description": "Kangaroos",
+					"amount": "10"
+				},
+				{
+					"description": "Bananas",
+					"amount": "2"
+				},
 				{}
 			]
 		},
@@ -33,18 +45,6 @@
 					"description": "Web hosting",
 					"amount": "20"
 				}
-			]
-		},
-		{
-			"id": "3",
-			"date": "2018-02-27",
-			"recipient": {
-				"name": "Lea Verou",
-				"address": "3 ba street"
-			},
-			"currency": "$",
-			"services": [
-				{}
 			]
 		},
 		{
